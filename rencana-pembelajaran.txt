@@ -1,0 +1,12 @@
+Rencana Pembelajaran
+
+- Javascript
+  * ES6
+  * Framework JS
+    ~ Vue
+    ~ React
+- Struktur Data Dasar
+- PHP Framework
+  ~ Laravel
+- CSS3
+- Phyton
